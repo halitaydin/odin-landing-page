@@ -8,6 +8,6 @@ They are providing us 2 images: one is an image of the complete website, and one
 
 And we should design it as close as possible to the given images.
 
-![Image One (Full Design)](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png)
+![Image One (Full Design)](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png | width=250)
 
-![Image Two (Color and Fonts)](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png)
+![Image Two (Color and Fonts)](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png | width=250)

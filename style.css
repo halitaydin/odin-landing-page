@@ -47,7 +47,7 @@ li {
 
 .header .container .text {
   width: 100%;
-  padding: 10px;
+  padding: 20px;
 }
 
 .header .main {
@@ -98,6 +98,8 @@ button {
   padding: 30px 150px;
   align-items: center;
   margin-bottom: 100px;
+  flex-wrap: wrap;
+  gap: 15px;
 }
 
 .boxes img {
@@ -122,6 +124,7 @@ button {
 
 .quotes .container {
   padding: 100px 240px;
+  width: 100%;
 }
 
 .quotes .quote {
@@ -142,6 +145,7 @@ button {
   padding: 50px 150px;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   border-radius: 10px;
   font-size: 25px;
 }
@@ -173,7 +177,7 @@ button {
   }
 
   .header {
-    padding: 50px 0;
+    padding: 0 0 10px 0;
   }
 
   .header .container {
@@ -190,6 +194,23 @@ button {
 
   img {
     width: 300px;
+  }
+
+  .quotes {
+    font-size: 18px;
+  }
+
+  .quotes .container {
+    padding: 50px 120px;
+  }
+
+  .call-to-action {
+    padding: 25px 75px;
+    gap: 10px;
+  }
+
+  .boxes .container {
+    margin-bottom: 25px;
   }
 }
 
@@ -221,5 +242,14 @@ button {
 
   li:nth-child(3) {
     margin: 0 auto;
+  }
+
+  .quotes .container {
+    padding: 50px 60px;
+  }
+
+  .call-to-action {
+    padding: 25px 25px;
+    margin: 25px 25px;
   }
 }
